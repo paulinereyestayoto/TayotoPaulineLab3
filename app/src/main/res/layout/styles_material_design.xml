@@ -60,9 +60,6 @@
     <TextView
         android:id="@+id/textView4"
         style="@style/Style3"
-        android:layout_width="366dp"
-        android:layout_marginEnd="23dp"
-        android:layout_marginStart="22dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
